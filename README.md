@@ -32,6 +32,7 @@ A AWS tem sua plataforma para solucionar esses problemas, chamada AWS Textract, 
 ---
 
 ## Código realizado
+
 import boto3
 
 def analisar_documento(nome_arquivo):
